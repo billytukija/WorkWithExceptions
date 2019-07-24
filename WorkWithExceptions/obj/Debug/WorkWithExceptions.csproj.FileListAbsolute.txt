@@ -1,0 +1,7 @@
+C:\Users\billy.richard\Documents\GitHub\WorkWithExceptions\WorkWithExceptions\bin\Debug\WorkWithExceptions.exe.config
+C:\Users\billy.richard\Documents\GitHub\WorkWithExceptions\WorkWithExceptions\bin\Debug\WorkWithExceptions.exe
+C:\Users\billy.richard\Documents\GitHub\WorkWithExceptions\WorkWithExceptions\bin\Debug\WorkWithExceptions.pdb
+C:\Users\billy.richard\Documents\GitHub\WorkWithExceptions\WorkWithExceptions\obj\Debug\WorkWithExceptions.csprojAssemblyReference.cache
+C:\Users\billy.richard\Documents\GitHub\WorkWithExceptions\WorkWithExceptions\obj\Debug\WorkWithExceptions.csproj.CoreCompileInputs.cache
+C:\Users\billy.richard\Documents\GitHub\WorkWithExceptions\WorkWithExceptions\obj\Debug\WorkWithExceptions.exe
+C:\Users\billy.richard\Documents\GitHub\WorkWithExceptions\WorkWithExceptions\obj\Debug\WorkWithExceptions.pdb
